@@ -4,8 +4,8 @@ th, td {
 }
 
 th {
-  color: white;
-  background-color: #103775;
+  color: white !important;
+  background-color: #103775 !important;
 }
 
 body {
