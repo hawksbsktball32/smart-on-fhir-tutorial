@@ -1,12 +1,11 @@
 th, td {
   padding: 5px;
   text-align: left;
-}
-
-th {
-  color: white !important;
+   color: white !important;
   background-color: #103775 !important;
 }
+
+
 
 body {
   margin: 0;
